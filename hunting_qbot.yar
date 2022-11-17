@@ -2,7 +2,7 @@ rule Hunting_Stealer_Qbot_dll_File {
    meta:
       
       description = "Detects Stealer_Qbot_dll_File"
-      author = "twitter.com/galkofahi"
+      author = "@galkofahi"
       date = "2022-11-17"
       Hash = "2cb8f04d41fe34706ff61cba06788faaaca87494721fcf8e86d20b897890a3b1"
       OS = "Windows"
