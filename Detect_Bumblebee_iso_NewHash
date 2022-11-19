@@ -8,6 +8,7 @@ rule Detect_Bumblebee_iso_newHash
         author = "@galkofahi"
         description = "Detect_Bumblebee_iso (.img)"
         reference = "https://cutt.ly/5MHZvsB"
+        reference2 = "https://cutt.ly/DMHBCea"
 
 strings:
        $cmd1 = "\\System32\\cmd.exe" ascii wide nocase
